@@ -36,6 +36,9 @@ public class Calculator {
         // Test the sum method with two numbers
         calc.sum(5.5f, 4.5f);
 
+        // Test the substraction method with two numbers
+        calc.sum(5.5f, 4.5f);
+
         // Test the multiplication method with two numbers
         calc.multiply(5.5f, 4.5f);
 

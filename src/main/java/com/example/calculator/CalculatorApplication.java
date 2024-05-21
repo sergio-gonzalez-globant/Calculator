@@ -4,7 +4,7 @@ public class CalculatorApplication {
 
     // Method to add two real numbers
     public float sum(float number1, float number2) {
-        return number1 + number2;
+        return number1 - number2;
     }
 
     // Method to subtract the second real number from the first
